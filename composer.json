@@ -1,0 +1,21 @@
+{
+    "name": "hongshuo/yii2-alipaydirect",
+    "description": "alibaba即时支付",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alipaydirect"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "hong shuo liu",
+            "email": "hongshuoliu@126.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hongshuo\\alipay\\": ""
+        }
+    }
+}
